@@ -26,7 +26,7 @@ public class Ong {
     private String telefone;
     private String cep;
     private String logradouro;
-    private String numero;
+    private int numero;
     private String complemento;
     private String bairro;
     private String cidade;
